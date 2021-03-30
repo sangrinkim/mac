@@ -1,4 +1,4 @@
 # mac
 Learn mac
 
-1. clean install macOS Big Sur
+1. Reinstall OS X
