@@ -4,7 +4,7 @@ Test bed:
 * MacBook Pro(Retina, 15-inch, Mid 2014)
 
 Steps:
-1. Turn on your Mac and immediately press and hold **option**.
+1. Turn on your Mac and immediately press and hold on **option** key.
 
 2. Make sure that your Mac has a **connection to the internet**.
 (If you got a error 2002F, you have to check internet connection. In my case, I needed DNS 8.8.8.8 on router.)
